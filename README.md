@@ -71,6 +71,6 @@ decision making, and building scalable systems.
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [https://linkedin.com/in/your-link](https://www.linkedin.com/in/sandeep-undurthi/)
+- **LinkedIn:** [https://linkedin.com/in/sandeep-undurthi](https://www.linkedin.com/in/sandeep-undurthi/)
 - **GitHub:** https://github.com/sandeepundurthi
-- **Portfolio:** [(optional — add when ready)](https://sandeep-undurthi-portfolio-j4bc.vercel.app/)
+- **Portfolio:** [(sandeep-undurthi)](https://sandeep-undurthi-portfolio-j4bc.vercel.app/)
