@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sandeep Undurthi— Computer Science Graduate
+## 👋 Hi, I'm Sandeep Undurthi — Computer Science Graduate
 ### Software Engineering • Data Science • Machine Learning
 
 I am a Computer Science graduate with hands-on experience building end-to-end systems across
