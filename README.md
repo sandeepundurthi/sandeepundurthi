@@ -1,3 +1,8 @@
+I am a Computer Science graduate with hands-on experience building end-to-end systems across software engineering, data science, and machine learning. My work focuses on transforming real-world problems into scalable, data-driven solutions through clean code, robust modeling, and practical deployment.
+
+I enjoy working across the full lifecycle — from data analysis and feature engineering to model development, APIs, and interactive applications.
+
+
 ## 👋 Hi, I'm Sandeep Undurthi — Computer Science Graduate
 ### Software Engineering • Data Science • Machine Learning
 
