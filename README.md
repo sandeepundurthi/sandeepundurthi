@@ -24,20 +24,19 @@ to model development, APIs, and interactive applications.
 
 ## 📌 Featured Projects
 
-### 🔹 Amazon Review Fraud Detection
-Built an NLP-driven anomaly detection system to identify fraudulent product reviews using
-linguistic and behavioral features. Implemented unsupervised learning with Isolation Forest
-and delivered insights through an interactive Streamlit dashboard.
+🔹 HappiScope AI – Global Happiness Intelligence
 
-**Tech:** Python, NLP, Scikit-learn, Streamlit
+Built an end-to-end analytics and machine learning platform to analyze 2005–2025 World Happiness data across 150+ countries. Developed an XGBoost model to predict happiness scores (R² = 0.91) and deployed an interactive Dash dashboard for rankings, country comparisons, key driver insights, and scenario-based forecasting.
+
+Tech: Python, Pandas, XGBoost, SHAP, Dash, Plotly
 
 ---
 
-### 🔹 Fake Job Posting Detection
-Developed a machine learning pipeline to detect scam job postings using text preprocessing,
-feature extraction, and supervised classification models.
+### 🔹 SupplyChain IQ: End-to-End Logistics Data Engineering Pipeline
 
-**Tech:** Python, NLP, Scikit-learn
+Built an automated logistics analytics platform to process shipment, warehouse, and inventory data using ETL workflows. Designed PostgreSQL models to identify delivery delays, warehouse bottlenecks, and low-stock risks, and delivered operational insights through an interactive Streamlit dashboard.
+
+Tech: Python, PostgreSQL, SQL, ETL, Streamlit, Pandas, Makefile
 
 ---
 
@@ -49,11 +48,11 @@ scheduling optimization in healthcare settings.
 
 ---
 
-### 🔹 House Price Prediction
-Implemented advanced regression techniques with feature engineering and model comparison
-to predict housing prices accurately.
+ChargeWise AI – EV Infrastructure Gap Forecasting Platform
 
-**Tech:** Python, Regression Models, Data Analysis
+Built an end-to-end analytics system to identify underserved regions for EV charging station expansion using electric vehicle population and public charger datasets. Applied forecasting and infrastructure gap scoring to prioritize counties, and delivered insights through an interactive Streamlit dashboard.
+
+Tech: Python, Pandas, Scikit-learn, Plotly, Streamlit, SQL
 
 ---
 
