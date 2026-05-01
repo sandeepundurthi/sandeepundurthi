@@ -48,7 +48,7 @@ scheduling optimization in healthcare settings.
 
 ---
 
-ChargeWise AI – EV Infrastructure Gap Forecasting Platform
+### 🔹ChargeWise AI – EV Infrastructure Gap Forecasting Platform
 
 Built an end-to-end analytics system to identify underserved regions for EV charging station expansion using electric vehicle population and public charger datasets. Applied forecasting and infrastructure gap scoring to prioritize counties, and delivered insights through an interactive Streamlit dashboard.
 
