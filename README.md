@@ -40,12 +40,11 @@ Tech: Python, PostgreSQL, SQL, ETL, Streamlit, Pandas, Makefile
 
 ---
 
-### 🔹 Patient No-Show Prediction (Healthcare)
-Built predictive models to identify high-risk appointment no-shows, enabling data-driven
-scheduling optimization in healthcare settings.
+🔹 Food Desert & Public Health Risk Dashboard
 
-**Tech:** Python, ML, Pandas, Scikit-learn
+Built an interactive analytics dashboard to identify U.S. counties at elevated public-health risk by analyzing relationships between food access, poverty, obesity, diabetes, and physical inactivity using USDA and CDC datasets.
 
+Tech: Python, Pandas, Streamlit, Plotly, Seaborn, Matplotlib, Data Analytics
 ---
 
 ### 🔹ChargeWise AI – EV Infrastructure Gap Forecasting Platform
@@ -53,6 +52,13 @@ scheduling optimization in healthcare settings.
 Built an end-to-end analytics system to identify underserved regions for EV charging station expansion using electric vehicle population and public charger datasets. Applied forecasting and infrastructure gap scoring to prioritize counties, and delivered insights through an interactive Streamlit dashboard.
 
 Tech: Python, Pandas, Scikit-learn, Plotly, Streamlit, SQL
+
+---
+🔹 Corporate Layoff Intelligence Platform (Workforce Analytics)
+
+Built an executive-style workforce analytics platform to analyze global layoff trends, industry instability, funding-stage risk, and geographic workforce impacts using real-world economic datasets.
+
+Tech: Python, Pandas, NumPy, Plotly, Streamlit, Jupyter Notebook
 
 ---
 
